@@ -1,0 +1,14 @@
+Issue ID,Bug Summary,Description,Severity,Platform
+WAL7,The feature description should be visible even when the video is zoomed.,"1.Open the page in Mobile browser and click on Try it.
+2. Select any one feature.
+3. After the page is redirected , zoom on the video.
+Observe that the text describing that feature goes out of scope.",Low,Mobile Web
+WAL6,Audio Description text overlaps with the product feature text.,"1.Click on the subtitle icon and select ""English(US),Audio Descriptions""
+2. Click on Try it and select any of the feature.
+Observe that the Audio description overlaps with feature text.",MEDIUM,Web and Mobile Web
+WAL3,"In the Dual Carriage option , text comes before the video of that option","Click on Try Now and select the option ""Dual Carriage""
+Observe that the text ""Cutting and Scoring"" starts showing while the video is playing for Cutting &amp; writing.",MEDIUM,Web and Mobile Web
+WAL4,Product name is not mentioned,Product name is not displayed anywhere on the home page.,MEDIUM,Web and Mobile Web
+WAL5,The description of the features to be a little more top aligned in the portrait mode in mobile,"Open the link in Mobile browser in Portrait mode
+
+Observe that the text describing the features of the product is at the bottom of the screen and it tends to get missed.Majority of users will view it portrait mode in mobile",MEDIUM,Mobile Web
